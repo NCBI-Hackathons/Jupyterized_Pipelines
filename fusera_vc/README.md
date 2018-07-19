@@ -21,10 +21,18 @@ python3 -m bash_kernel.install
 
 **Running Jupyter notebook:**
 
+Below, we will clone this GitHub repository, `cd` into the directory containing `fusera_variant_calling.ipynb`, and run `jupyter notebook`. This will bring up a browser window of this directory. You can then click on `fusera_variant_calling.ipynb` to open up the Jupyter notebook and start running code!
+
 ```bash
+#   First we will clone this GitHub repo into ~/
+cd ~/
+git clone https://github.com/NCBI-Hackathons/Jupyterized_Pipelines.git
+
 #   You may have to change this path depending on where you clone
 #   this GitHub repository
 #   Here, I am assuming you cloned this repo into ~/
 cd ~/Jupyterized_Pipelines/fusera_vc
 jupyter notebook
 ```
+
+**Note:** Please install [Fusera](https://github.com/mitre/fusera) and [bcbio](https://bcbio-nextgen.readthedocs.io/en/latest/) before running the Jupyter notebook.
