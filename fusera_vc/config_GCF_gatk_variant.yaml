@@ -2,8 +2,8 @@
 ---
 details:
   - upload:
-      dir: ~/local_results
-    files: [~/cloud_mountpoint/SRR1597834/NA06985.mapped.ILLUMINA.bwa.CEU.low_coverage.20120522.bam]
+      dir: $HOME/local_results
+    files: [$HOME/cloud_mountpoint/SRR1597834/NA06985.mapped.ILLUMINA.bwa.CEU.low_coverage.20120522.bam]
     analysis: variant2
     genome_build: GRCh37
     # to do multi-sample variant calling, assign samples the same metadata / batch
