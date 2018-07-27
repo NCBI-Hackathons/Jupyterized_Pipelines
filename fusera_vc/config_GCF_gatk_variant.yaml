@@ -2,14 +2,14 @@
 ---
 details:
   - upload:
-      dir: /home/ubuntu/test_jupyter/local_results
-    files: [/home/ubuntu/test_jupyter/cloud_mountpoint/SRR1219902/NA19316.mapped.ILLUMINA.bwa.LWK.low_coverage.20120522.bam]
+      dir: ~/local_results
+    files: [~/cloud_mountpoint/SRR1597834/NA06985.mapped.ILLUMINA.bwa.CEU.low_coverage.20120522.bam]
     analysis: variant2
     genome_build: GRCh37
     # to do multi-sample variant calling, assign samples the same metadata / batch
     # metadata:
     #   batch: your-arbitrary-batch-name
-    description: SRR1219902
+    description: SRR1597834
     algorithm:
       #aligner: bwa
       recalibrate: gatk
