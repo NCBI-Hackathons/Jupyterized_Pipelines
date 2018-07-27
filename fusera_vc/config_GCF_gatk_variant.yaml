@@ -11,6 +11,7 @@ details:
     #   batch: your-arbitrary-batch-name
     description: SRR1597834
     algorithm:
+      bam_clean: fixrg
       #aligner: bwa
       recalibrate: gatk
       variantcaller: gatk-haplotype
