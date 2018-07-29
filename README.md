@@ -7,6 +7,7 @@ Devante Thompson's big bag of awesome pipelines. All Jupyter notebooks are store
 ### Google Colaboratory Notebook Links
 
 - [`magicblast`](https://colab.research.google.com/drive/1sKElWdobLyK2DpQnpconqtk4TbjFqVCA)
+  - **Note:** [magicblast.ipynb notebook in this GitHub repo](https://github.com/NCBI-Hackathons/Jupyterized_Pipelines/blob/master/magicblast.ipynb) was exported from Google Colaboratory. You will need to remove all `!` before commands if running locally with `jupyter notebook`.
 
 ---
 
