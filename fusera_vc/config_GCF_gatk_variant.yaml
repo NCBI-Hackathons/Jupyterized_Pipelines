@@ -5,7 +5,7 @@ details:
       dir: /home/ubuntu/local_results
     files: [/home/ubuntu/cloud_mountpoint/SRR1597834/NA06985.mapped.ILLUMINA.bwa.CEU.low_coverage.20120522.bam]
     analysis: variant2
-    genome_build: GRCh37
+    genome_build: GRCh38
     # to do multi-sample variant calling, assign samples the same metadata / batch
     # metadata:
     #   batch: your-arbitrary-batch-name
