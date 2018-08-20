@@ -1,5 +1,5 @@
 # Jupyterized_Pipelines
-Jupyter Notebook for High Throughput Access to NCBI Data. Jupyter notebooks are stored here may also be available on Google Colaboratory (see links below)!
+Jupyter Notebook for High Throughput Access to NCBI Data. Jupyter notebooks stored here may also be available on Google Colaboratory (see links below)!
 
 --
 
